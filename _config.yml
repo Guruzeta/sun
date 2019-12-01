@@ -7,7 +7,7 @@ description:        "The difference between drunk fish and a drunk man is that t
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/images-2.png'
-background:         'assets/img/feynman-1.jpg'
+background:         'assets/img/image-3.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://taylantatli.github.io/Moon
