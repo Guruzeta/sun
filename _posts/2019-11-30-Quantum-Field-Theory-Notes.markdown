@@ -15,7 +15,7 @@ You can checkout my supervised learning report and presentation for an initial g
 
 [Quantum Field Theory Report](https://drive.google.com/file/d/1LJCvweMcU_W7z4prZagbXjewVtFw4Dxv/view?usp=sharing)
 
-[Presentation](https://drive.google.com/file/d/1LJCvweMcU_W7z4prZagbXjewVtFw4Dxv/view?usp=sharing)
+[Presentation](https://drive.google.com/file/d/1R6rOUjEogS1esQejRVvcbtJsLdyFKK0H/view?usp=sharing)
 
 This report contains a small sampling of my work during the semester. I intend to post further
 developments on this website very soon. Till then, keep your **quantas** real ;).
