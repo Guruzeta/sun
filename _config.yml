@@ -6,7 +6,7 @@ bio:                'Hey there! I wanted to learn more about physics, web develo
 description:        "The difference between drunk fish and a drunk man is that the man always reaches home."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/gita_background.png'
+logo:               'assets/img/krishnamahabharat.jpg'
 background:         'assets/img/feynman-1-3.png'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
