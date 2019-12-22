@@ -4,6 +4,8 @@ title:  "Quantum Field Theory"
 date:   2019-11-29 16:41:33 +0530
 categories: Notes
 author: Guru Kalyan
+feature: https://imgur.com/mtJ6YyV
+
 ---
 
 Recently I've ventured into quantum field theory over the course of a supervised learning.
