@@ -8,7 +8,7 @@ comments: false
   <!-- <a href="http://taylantatli.github.io/Moon"><b>Moon</b></a>  -->
 ## <center>  Guru Kalyan Jayasingh </center>
 Hi there!
-I am an undergraduate student in Engineering Physics at the Indian Institute of Technology, Bombay. I am primarily interested in theoretical physics. That said, I also like abstract mathematics and have some fondness for biology as well. Previously I've mostly explored general relativity and differential geometry. Currently, i am most fascinated by Quantum Field Theories (if you haven't heard of it, do give my post a read) and hopefully I won't have further phase transitions in my interest in the near future ;)
+I am an undergraduate student in Engineering Physics at the Indian Institute of Technology, Bombay. I am primarily interested in theoretical physics. That said, I also like abstract mathematics and have some fondness for biology as well. Previously I've mostly explored general relativity and differential geometry. Currently, i am most fascinated by Quantum Field Theories (if you haven't heard of it, do give my post a read) and hopefully I won't have further phase transitions of my interest in the near future ;)
 
 I've been fortunate to spend some time in <a href="https://www.tifr.res.in"><b>Tata Institute of Fundamental Research(Mumbai)</b></a> and at the <a href="https://www.niser.ac.in"><b>National Institute of Science Education and Research (Bhubaneswar) </b></a> . Apart from the work that i did there, I grew a sense what working as a professional requires and I plan to become one someday (not too far though).
 
