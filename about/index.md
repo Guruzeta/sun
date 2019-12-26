@@ -17,10 +17,10 @@ I also manage a hobby club, the <a href="http://mnp-club.github.io"><b>Maths and
 You can checkout my CV for a glimpse into my exploits. Feel free to wander about!
 
 <figure>
-	<a data-flickr-embed="true" href="https://www.flickr.com/photos/186166047@N05/49276643317/in/dateposted-public/" title="koiragad"><img src="https://live.staticflickr.com/65535/49276643317_e86279ccf5.jpg" width="500" height="375" alt="koiragad"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	<a data-flickr-embed="true" href="https://www.flickr.com/photos/186166047@N05/49276643317/in/dateposted-public/" title="koiragad"><img src="https://live.staticflickr.com/65535/49276643317_e86279ccf5_c.jpg" width="800" height="600" alt="koiragad"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </figure>
 
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+
 
 See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
 
