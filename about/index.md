@@ -17,7 +17,7 @@ I also manage a hobby club, the <a href="http://mnp-club.github.io"><b>Maths and
 You can checkout my CV for a glimpse into my exploits. Feel free to wander about!
 
 <figure>
-	<a data-flickr-embed="true" href="https://www.flickr.com/photos/186166047@N05/49276003318/in/dateposted-public/" title="koiragad2"><img src="https://live.staticflickr.com/65535/49276003318_cdf7467899_c.jpg" width="800" height="705" alt="koiragad2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	<a data-flickr-embed="true" href="https://www.flickr.com/photos/186166047@N05/49276003318/in/dateposted-public/" title="koiragad2"><img src="https://live.staticflickr.com/65535/49276003318_cdf7467899_c.jpg" width="800" height="705" alt="koiragad2"></a>
 </figure>
 
 
