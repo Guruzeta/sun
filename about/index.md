@@ -16,7 +16,10 @@ I also manage a hobby club, the <a href="http://mnp-club.github.io"><b>Maths and
 
 You can checkout my CV for a glimpse into my exploits. Feel free to wander about!
 
-![this feeling](https://imgur.com/itdWdUK).
+<figure>
+	<a data-flickr-embed="true" href="https://www.flickr.com/photos/186166047@N05/49276643317/in/dateposted-public/" title="koiragad"><img src="https://live.staticflickr.com/65535/49276643317_cd84484bbd_k.jpg" width="2048" height="1536" alt="koiragad"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+    
+</figure>
 
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
