@@ -17,8 +17,7 @@ I also manage a hobby club, the <a href="http://mnp-club.github.io"><b>Maths and
 You can checkout my CV for a glimpse into my exploits. Feel free to wander about!
 
 
-
-[Imgur](https://imgur.com/undefined)
+<img src="https://imgur.com/itdWdUK" alt="Italian Trulli">
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
 See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
