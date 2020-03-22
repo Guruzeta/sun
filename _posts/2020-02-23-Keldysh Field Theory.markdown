@@ -11,7 +11,8 @@ Hey there! I am currently working my nights on learning Keldysh Field theory for
 me learning about path integrals and gaining on the alternative approach to field quantization via functional quantization.
 I'll share the notes soon updating my progress therein.
 
-#Updates
+# Updates
+
 Till now i've mostly been going through Prof. Sensarma's lectures on doing path integrals via the
 imaginary time formalism. For a complete overview, look at the following overview of his concise lectures on path integral:-
 [Path Integrals In Quantum Mechanics](https://theory.tifr.res.in/~sensarma/courses/ADVQMLNOTE/pathint.html)
