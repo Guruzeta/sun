@@ -23,3 +23,6 @@ You can checkout my supervised learning report and presentation for an initial g
 The current idea is to explore chapter 4 of Peskin. Plan to solve Prof. Guth's Assignments as given in OCW courseware
 
 [Relativistic QFT by Prof. Alan Guth](https://ocw.mit.edu/courses/physics/8-323-relativistic-quantum-field-theory-i-spring-2008/assignments/)
+
+## Propagators in QFT
+Recently I
