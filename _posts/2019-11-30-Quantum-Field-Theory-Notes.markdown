@@ -19,5 +19,7 @@ You can checkout my supervised learning report and presentation for an initial g
 
 [Presentation](https://drive.google.com/file/d/1R6rOUjEogS1esQejRVvcbtJsLdyFKK0H/view?usp=sharing)
 
-This report contains a small sampling of my work during the semester. I intend to post further
-developments on this website very soon. Till then, keep your **quantas** real ;).
+## Update
+The current idea is to explore chapter 4 of Peskin. Plan to solve Prof. Guth's Assignments as given in OCW courseware
+
+[Relativistic QFT by Prof. Alan Guth](https://ocw.mit.edu/courses/physics/8-323-relativistic-quantum-field-theory-i-spring-2008/assignments/)
