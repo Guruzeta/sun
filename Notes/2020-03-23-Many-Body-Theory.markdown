@@ -3,6 +3,7 @@ layout: post
 title:  "Many Body Theory"
 date:   2020-01-04 16:41:33 +0530
 categories: Notes
+Notes : true
 author: Guru Kalyan
 feature:
 
