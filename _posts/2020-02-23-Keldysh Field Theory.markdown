@@ -12,11 +12,11 @@ me learning about path integrals and gaining on the alternative approach to fiel
 I'll share the notes soon updating my progress therein.
 
 
-#Update: 2
+# Update: 2
 So I finally went into Keldysh field theory. One of the main ideas of the theory is to allow the case for non-adiabatic interactions i.e. one can ramp up a time varying external field that will drive the system away from equilibrium.
 
 From what I've read about this, for equilibrium situations this fact is neatly avoided by pleading the following fact:
-\\ |GS> = U_{t,-\\infty} |0>
+\\(|GS>\\) = \\(U_{t,-\\infty}\\) \\(|0>\\)
 
 
 # Update: 1
