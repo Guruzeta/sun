@@ -15,8 +15,9 @@ I'll share the notes soon updating my progress therein.
 # Update: 2
 So I finally went into Keldysh field theory. One of the main ideas of the theory is to allow the case for non-adiabatic interactions i.e. one can ramp up a time varying external field that will drive the system away from equilibrium.
 
-From what I've read about this, for equilibrium situations this fact is neatly avoided by pleading the following fact:
-\\(|GS>\\) = \\(U_{t,-\\infty}\\) \\(|0>\\)
+From what I've read about this, for equilibrium situations, one is guided by the following recipe :
+\\(|GS>\\) = \\(U_{t,-\\infty}\\) \\(|0>\\)                             ---(a)                         
+
 The only time dependence exhibited by the above is in the _adiabatic_ switching on and off of interactions, which seem to evolve \\(|0>\\) to \\(|GS>\\).
 Since the term _adiabatic_ is new, let me define it here:
 Suppose we have a quantum system( for the time being consider discrete and non-degenerate spectrum, it'll allow one to label states) subjected to
@@ -34,7 +35,11 @@ For very large time scales, the system will evolve from \\(|n_0>\\) to \\(|Psi_{
 The adiabatic switching on and off of the interactions essentially evolve \\(|0>\\) to exp(iL)\\(|0>\\)
 i.e. same state upto a phase factor. This can then be leveraged to calculate various correlators and expectation values of operators.
 
+But in case of non-equilibrium dynamics,(a) isn't simply true. Moving further requires us to evolve both forward and backward in time, which is what Keldysh does.   
+
+
 # Update: 1
+
 
 Till now i've mostly been going through Prof. Sensarma's lectures on doing path integrals via the
 imaginary time formalism. For a complete overview, look at the following overview of his concise lectures on path integral:-
