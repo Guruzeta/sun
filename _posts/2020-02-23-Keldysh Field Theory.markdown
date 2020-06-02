@@ -30,7 +30,7 @@ Now there are two ways this plays out:
 1. $$ H_{ext}$$ varies rapidly, leaving our system ineffective to adapt to it's change(i.e. the functional form of $$ \Psi(x,t)$$ remains same).
 The system time-scale goes as $$\tau_{system}$$ = $$\frac{h}{E_0}$$(I'll have to clarify why this is
 precisely so). Also the separation from other eigenvalues is also important - a large separation will render transition rate lesser to other states. In this case, the wave function satisfies
-$$ (Psi(x,t))^2 $$ = $$ (Psi(x,t_0))^2 $$
+$$ (\Psi(x,t))^2 $$ = $$ (\Psi(x,t_0))^2 $$
 
 2. $$ H_{ext}$$ varies slowly, giving the system time to adapt and change it's functional dependence.
 This crucially depends on the time difference $$t_1-t_0$$, the final and initial time of the applied perturbation(a statement of _Adiabatic_ theorem).
