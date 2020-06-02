@@ -17,9 +17,9 @@ So I finally went into Keldysh field theory. One of the main ideas of the theory
 
 From what I've read about this, for equilibrium situations, one is guided by the following recipe :
 
-\\(|GS>\\) = \\(U_{t,-\\infty}\\) \\(|0>\\)                                               
+|GS> = $$U_{t,\infty}\;|0>$$                                           
 
-The only time dependence exhibited by the above is in the _adiabatic_ switching on and off of interactions, which seem to evolve \\(|0>\\) to \\(|GS>\\).
+The only time dependence exhibited by the above is in the _adiabatic_ switching on and off of interactions, which seem to evolve $$|0>$$ to $$|GS>$$.
 
 Since the term _adiabatic_ is new, let me define it here:
 
@@ -28,13 +28,13 @@ a time dependent external perturbation.
 
 Now there are two ways this plays out:
 1. $$ H_{ext}$$ varies rapidly, leaving our system ineffective to adapt to it's change(i.e. the functional form of $$ \Psi(x,t)$$ remains same).
-The system time-scale goes as \\(tau_{system}\\) = $$frac{h}{E_0}$$(I'll have to clarify why this is
+The system time-scale goes as $$\tau_{system}$$ = $$frac{h}{E_0}$$(I'll have to clarify why this is
 precisely so). Also the separation from other eigenvalues is also important - a large separation will render transition rate lesser to other states. In this case, the wave function satisfies
 $$ (Psi(x,t))^2 $$ = $$ (Psi(x,t_0))^2 $$
 
 2. $$ H_{ext}$$ varies slowly, giving the system time to adapt and change it's functional dependence.
-This crucially depends on the time difference \\(t_1\\)-\\(t_0\\), the final and initial time of the applied perturbation(a statement of _Adiabatic_ theorem).
-For very large time scales, the system will evolve from \\(|n_0>\\) to $$(|Psi_{epsilon}$$ i.e. an eigenstate of the interacting hamiltonian.
+This crucially depends on the time difference $$t_1-t_0$$, the final and initial time of the applied perturbation(a statement of _Adiabatic_ theorem).
+For very large time scales, the system will evolve from $$|n_0>$$ to $$(|Psi_{epsilon}$$ i.e. an eigenstate of the interacting hamiltonian.
 
 The adiabatic switching on and off of the interactions essentially evolve \\(|0>\\) to exp(iL)\\(|0>\\)
 i.e. same state upto a phase factor. This can then be leveraged to calculate various correlators and expectation values of operators.
