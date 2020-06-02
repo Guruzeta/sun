@@ -34,7 +34,7 @@ $$ (\Psi(x,t))^2 $$ = $$ (\Psi(x,t_0))^2 $$
 
 2. $$ H_{ext}$$ varies slowly, giving the system time to adapt and change it's functional dependence.
 This crucially depends on the time difference $$t_1-t_0$$, the final and initial time of the applied perturbation(a statement of _Adiabatic_ theorem).
-For very large time scales, the system will evolve from $$|n_0>$$ to $$(\Psi_{epsilon}$$ i.e. an eigenstate of the interacting hamiltonian.
+For very large time scales, the system will evolve from $$|n_0>$$ to $$(\Psi_{\epsilon}$$ i.e. an eigenstate of the interacting hamiltonian.
 
 The adiabatic switching on and off of the interactions essentially evolve \\(|0>\\) to exp(iL)\\(|0>\\)
 i.e. same state upto a phase factor. This can then be leveraged to calculate various correlators and expectation values of operators.
