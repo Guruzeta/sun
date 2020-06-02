@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Green's Functions in Physics"
+title:  "Green's Functions"
 date:   2020-06-02 16:41:33 +0530
 categories: Notes
 author: Guru Kalyan
