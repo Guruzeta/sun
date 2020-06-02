@@ -23,7 +23,7 @@ So to my current knowledge, Green's functions are used in the following areas:
 2. As a tool to calculate the linear response of a quantum system, mostly
 compacted by Kubo's formula.( Why is it important?)
 
-3. In the context of Keldysh f.t., $$G^{>}$$ and $$G^{\<}$$ seem to capture the
+3. In the context of Keldysh f.t., $$ G^{>} $$ and $$ G^{<} $$ seem to capture the
 one-particle dynamics of the system. I am currently planning to delve into this,
 while some revision will help to clarify the above points more clearly.
 For the interested souls, this point is exemplified in the treatise "Quantum Statistical
