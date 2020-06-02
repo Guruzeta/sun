@@ -16,12 +16,16 @@ I'll share the notes soon updating my progress therein.
 So I finally went into Keldysh field theory. One of the main ideas of the theory is to allow the case for non-adiabatic interactions i.e. one can ramp up a time varying external field that will drive the system away from equilibrium.
 
 From what I've read about this, for equilibrium situations, one is guided by the following recipe :
-\\(|GS>\\) = \\(U_{t,-\\infty}\\) \\(|0>\\)                             ---(a)                         
+
+\\(|GS>\\) = \\(U_{t,-\\infty}\\) \\(|0>\\)                                               
 
 The only time dependence exhibited by the above is in the _adiabatic_ switching on and off of interactions, which seem to evolve \\(|0>\\) to \\(|GS>\\).
+
 Since the term _adiabatic_ is new, let me define it here:
+
 Suppose we have a quantum system( for the time being consider discrete and non-degenerate spectrum, it'll allow one to label states) subjected to
 a time dependent external perturbation.
+
 Now there are two ways this plays out:
 1. \\(H_{ext}\\) varies rapidly, leaving our system ineffective to adapt to it's change(i.e. the functional form of \\(Psi(x,t) \\) remains same).
 The system time-scale goes as \\(tau_{system}\\) = \\(frac{h}{E_0}\\)(I'll have to clarify why this is
