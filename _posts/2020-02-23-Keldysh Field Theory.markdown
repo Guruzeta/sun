@@ -31,7 +31,7 @@ on the behaviour of phonons.
 The couple of equations that I can foresee currently are
 1. $$(\beta_{old}, \mu_{old})\; \rightarrow \;(\beta_{new}, \mu_{new})$$ coming
 from energy conservation.
-2. $$(G^{-1}_0 - \sigma)\textopenbullet G = \;1 $$ from dyson's equations.
+2. $$(G^{-1}_0 - \Sigma)\ocircle\; G = \;1 $$ from dyson's equations.
 
 Few comments: As can be seen, this is archetypal of the standard scalar **yukawa** theory case that couples complex scalars to real fields. We are motivated by including the simplest interaction as of now. Although I suspect there could be deeper reason for the irrelevance of higher order terms in limit of some particular energy scale. I've seen these arguments in the case of $$\phi^4$$ theory, delineating couplings into relevant, marginal and irrelevant at low energies (see Tong's lecture on [Interacting fields](http://www.damtp.cam.ac.uk/user/tong/qft/three.pdf), specifically after eqn 3.3 to get a sense of what I mean). Heard RG's the way to rigorously justify this but I'll have to see.
 
