@@ -28,7 +28,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   guruzeta
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -39,14 +39,14 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
-twitter:            username
-facebook:           username
-github-url:         username
+email:              gurukalyan1.618@gmail.com
+#twitter:            username
+#facebook:           username
+github-url:         https://github.com/Guruzeta/sun
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+#instagram:          username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
