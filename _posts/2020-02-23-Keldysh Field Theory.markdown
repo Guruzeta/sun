@@ -21,10 +21,10 @@ We take the following action for the combined system:-
 $$ S_K\;=\; \int_{\mathcal{C}} \frac{1}{2}\;\phi^{T}G^{-1}_B\phi \;+\; \frac{1}{2}\;\Psi^{\dagger}G^{-1}_F\Psi \;+\;\bar{\Psi}\Psi \phi $$
 
 Now, we start the system with some energy pumped into fermions and let them equilibrate. The interaction will also dump some energy into phonon modes with an equilibration time scale much larger than the electron timescale.
-So we investigate the model in the approximation of readily equilibrating
+So we investigate the model in the approximation of **readily** equilibrating
  fermions i.e. fermions respond quickly to the changing temperature. Also,
 we assume that fermion no. conservation holds, while phonon modes can be
-created/annihilated,courtesy of the large lattice background. Lattice can
+created/annihilated, courtesy of the large lattice background. Lattice can
 effectively absorb extra energy and create phonon modes.
 The plan, as I understand it right now, is to solve the kinetic equation focusing
 on the behaviour of phonons.
@@ -33,7 +33,7 @@ The couple of equations that I can foresee currently are
 from energy conservation.
 2. $$(G^{-1}_0 - \sigma)\textopenbullet G = \;1 $$ from dyson's equations.
 
-Few comments: As can be seen, this is archetypal of the standard scalar yukawa theory case that couples complex scalars to real fields. We are motivated by including the simplest interaction as of now. Although I suspect there could be deeper reason for the irrelevance of higher order terms in limit of some particular energy scale. I've seen these arguments in the case of $\phi^4$ theory, delineating couplings into relevant, marginal and irrelevant at low energies (see Tong's lecture on [Interacting fields](http://www.damtp.cam.ac.uk/user/tong/qft/three.pdf), specifically after eqn 3.3 to get a sense of what I mean). Heard RG's the way to rigorously justify this but I'll have to see.
+Few comments: As can be seen, this is archetypal of the standard scalar **yukawa** theory case that couples complex scalars to real fields. We are motivated by including the simplest interaction as of now. Although I suspect there could be deeper reason for the irrelevance of higher order terms in limit of some particular energy scale. I've seen these arguments in the case of $$\phi^4$$ theory, delineating couplings into relevant, marginal and irrelevant at low energies (see Tong's lecture on [Interacting fields](http://www.damtp.cam.ac.uk/user/tong/qft/three.pdf), specifically after eqn 3.3 to get a sense of what I mean). Heard RG's the way to rigorously justify this but I'll have to see.
 
 
 I'll get more clarity as the discussion progresses and will update them here.
