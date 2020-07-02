@@ -11,6 +11,17 @@ Hey there! I am currently working my nights on learning Keldysh Field theory for
 me learning about path integrals and gaining on the alternative approach to field quantization via functional quantization.
 I'll share the notes soon updating my progress therein.
 
+# Update: 3
+I've finally started working on a problem. I'll state it here briefly:-
+
+Consider a simple model of a mixed system of phonons(elastic) and fermions. We'll assume
+purely non-interacting modes of both systems and focus specifically on the cross interaction itself.
+We take the following action for the combined system:-
+
+$$ S_K\;=\; \int_{\mathcal{C}} \frac{1}{2}\;\phi^{T}G^{-1}_B\phi \;+\; \frac{1}{2}\;\Psi^{\dagger}G^{-1}_F\Psi \;+\;\bar{\Psi}\Psi \phi $$
+
+Now, we start the system with some energy pumped into fermions and let them equilibrate.
+
 
 # Update: 2
 So I finally went into Keldysh field theory. One of the main ideas of the theory is to allow the case for non-adiabatic interactions i.e. one can ramp up a time varying external field that will drive the system away from equilibrium.
