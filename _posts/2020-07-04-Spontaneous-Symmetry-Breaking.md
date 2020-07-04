@@ -2,6 +2,7 @@
 layout: post
 title:  "Spontaneous Symmetry Breaking"
 date: 2020-07-04
+excerpt: "A reading group endeavour"
 Notes: true
 author: Guru Kalyan
 feature: https://i.imgur.com/LmN4maY.jpg
