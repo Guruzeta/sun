@@ -12,6 +12,6 @@ Apart from the couple of projects that I'm doing currently, a small reading grou
 on Spontaneous symmetry breaking has come upon.
 With help from Prof. Sumiran, we've going through this doc [SciPostPhysLectNotes](https://scipost.org/SciPostPhysLectNotes.11/pdf).
 
-**<a href="guruzeta.github.io/pdfs/SSB.pdf" target="_blank">
- Spontaneous Symmetry
+**<a href="guruzeta.github.io/pdfs/SSB_Notes-3.pdf" target="_blank">
+Spontaneous Symmetry
 Breaking Notes</a>.**
