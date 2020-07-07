@@ -18,7 +18,7 @@ So I finally went into Keldysh field theory. One of the main ideas of the theory
 
 From what I've read about this, for equilibrium situations, one is guided by the following recipe :
 
-$$ \|GS> = U_{t,\infty}\|0> $$                                           
+$$ \|GS> = U_{t,-\infty}\|0> $$                                           
 
 The only time dependence exhibited by the above is in the _adiabatic_ switching on and off of interactions, which seem to evolve $$\|0>$$ to $$\|GS>$$.
 
