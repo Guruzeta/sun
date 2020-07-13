@@ -23,11 +23,15 @@ So to my current knowledge, Green's functions are used in the following areas:
 2. As a tool to calculate the linear response of a quantum system, mostly
 compacted by Kubo's formula.( Why is it important?)
 
-3. In the context of Keldysh f.t., $$ G^{\succ} $$ and $$ G^{\prec} $$ seem to capture the
-one-particle dynamics of the system. I am currently planning to delve into this,
-while some revision will help to clarify the above points more clearly.
-For the interested souls, this point is exemplified in the treatise "Quantum Statistical
-Mechanics" by Kadanoff and Baym.
+3. In many body physics, Green's function typically are thought of as "propagating" some excitations.
+In a QM sense, a green's function will look like
+$$ \mathcal{G}\;=\;<\Vec{r},t|\Vec{r'},t> $$
+What this describes is the amplitude for propagation from one space time point to another. The many body analogue of this is defined as
+$$\mathcal{G}^{R}\;=\;-i\theta(t-t') <\{c_i(t), \dagger{c}_j(t') \} >$$
+Turns out, the latter captures the "single particle" dynamics of the interacting $$\mathcal{H}$$.
+The two important observations are:-
+a. The poles of $$\mathcal{G}^{R}$$ are the effective one-particle energies.
+b. Imaginary part of  $$\mathcal{G}^{R}$$ on the other hand represents the **local** density of states for one-particle spectrum.
 
 As clearly evident, this post requires some concrete explanation and hopefully
 I'll cover points 2 and 3 by the end of this week.
