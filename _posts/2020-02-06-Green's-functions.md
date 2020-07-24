@@ -26,20 +26,18 @@ compacted by Kubo's formula.( Why is it important?)
 3. In many body physics, Green's function typically are thought of as "propagating" some excitations.
 In a QM sense, a green's function will look like
 
-$$ \mathcal{G}\;=\;<\Vec{r},t|\Vec{r'},t> $$
+$$ \mathcal{G} = <\Vec{r},t|\Vec{r'},t> $$
 
 What this describes is the amplitude for propagation from one space time point to another. The many body analogue of this is defined as
 
-$$ \mathcal{G}^{R}\;=\;-i\theta(t-t') <\{c_i(t), {c}^{\dagger}_j(t') \}> $$
+$$ \mathcal{G}^{R} = -i\theta(t-t') <\{c_i(t), {c}^{\dagger}_j(t') \}> $$
 
 Turns out, the latter captures the "single particle" dynamics of the interacting $$ \mathcal{H}$$.
 
 The two important observations are:-
 
 1. The poles of $$\mathcal{G}^{R}$$ are the effective one-particle energies.
-This is important in the following sense - Suppose you are handed a many body problem with a generic hamiltonian. Now **solving** the problem necessitates to diagonalizing $$\mathcal{H}$$. This is clear to see when one uses second quantization approach. Typical strategies involve performing a canonical transformation and diagonalizing in new basis.
-
- However, when one writes a path integral for the problem, it's not entirely evident about how to recover **single** particle levels. The way forward is to generate an effective quadratic action (through various approximations like saddle point expansion, doing a hubbard stratonovich transformation, mean field decoupling etc.). Once done, it's easy to read off the $$\mathcal{G}^{-1}$$ (which in certain cases might be a matrix too ;) ) and compute it's poles. In examples like BCS superconductivity or Bogoliubov theory of bosons, the latter is very easy to do and one extracts single
+This is important in the following sense - Suppose you are handed a many body problem with a generic hamiltonian. Now **solving** the problem necessitates to diagonalizing $$\mathcal{H}$$. This is clear to see when one uses second quantization approach. Typical strategies involve performing a canonical transformation and diagonalizing in new basis. However, when one writes a path integral for the problem, it's not entirely evident about how to recover **single** particle levels. The way forward is to generate an effective quadratic action (through various approximations like saddle point expansion, doing a hubbard stratonovich transformation, mean field decoupling etc.). Once done, it's easy to read off the $$\mathcal{G}^{-1}$$ (which in certain cases might be a matrix too ;) ) and compute it's poles. In examples like BCS superconductivity or Bogoliubov theory of bosons, the latter is very easy to do and one extracts single
  particle spectrum with lesser misery :).
 
 2. Imaginary part of  $$\mathcal{G}^{R}$$ on the other hand represents the **local** density of states for one-particle spectrum.
