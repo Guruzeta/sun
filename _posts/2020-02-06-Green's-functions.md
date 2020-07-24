@@ -30,7 +30,7 @@ $$ \mathcal{G}\;=\;<\Vec{r},t|\Vec{r'},t> $$
 
 What this describes is the amplitude for propagation from one space time point to another. The many body analogue of this is defined as
 
-$$ \mathcal{G}^{R}\;=\;-i\theta(t-t') <\{c_i(t), \dagger{c}_j(t') \}> $$
+$$ \mathcal{G}^{R}\;=\;-i\theta(t-t') <\{c_i(t), {c}^{\dagger}_j(t') \}> $$
 
 Turns out, the latter captures the "single particle" dynamics of the interacting $$ \mathcal{H}$$.
 
