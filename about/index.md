@@ -17,7 +17,8 @@ I also manage a hobby club, the <a href="http://mnp-club.github.io"><b>Maths and
 You can checkout my CV for a glimpse into my exploits. Feel free to wander about!
 
 <figure>
-	<a data-flickr-embed="true" href="https://www.flickr.com/photos/186166047@N05/49276003318/in/dateposted-public/" title="koiragad2">"We enter solitude, in which we also lose loneliness."<img src="https://live.staticflickr.com/65535/49276003318_cdf7467899_c.jpg" width="800" height="705" alt="koiragad2"></a>
+	<a data-flickr-embed="true" href="https://www.flickr.com/photos/186166047@N05/49276003318/in/dateposted-public/" title="koiragad2"><img src="https://live.staticflickr.com/65535/49276003318_cdf7467899_c.jpg" width="800" height="705" alt="koiragad2"></a>
+	 <figcaption>We enter solitude, in which we also lose loneliness.</figcaption>
 </figure>
 
 
