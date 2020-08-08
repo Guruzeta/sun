@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Many Body Theory"
-date:   2020-01-04 16:41:33 +0530
-categories: Notes
-Notes : true
+date:   2020-01-04
+project : true
 author: Guru Kalyan
-feature:
+feature: https://i.imgur.com/LmN4maY.jpg
 
 ---
 
 Notes on QFT formulation for many body theory will be available here soon.
+This should be featuring in the projects section of my webpage.
