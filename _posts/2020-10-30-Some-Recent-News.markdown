@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Recent Activity"
-date:   2020-07-18 16:41:33 +0530
+date:   2020-10-30
 categories: Notes
 author: Guru Kalyan
 feature: https://i.imgur.com/A6UeDZP.jpg
