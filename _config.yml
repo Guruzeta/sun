@@ -63,7 +63,8 @@ github-url:         Guruzeta/sun
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-
+plugins:
+  - jekyll-seo-tag
 # Gems
 gems:
   - jekyll-mentions
