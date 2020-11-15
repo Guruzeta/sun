@@ -3,7 +3,6 @@ layout: post
 title:  "For when Science gets too nerdy"
 date: 2020-15-11
 excerpt: "Blogs to keep you up"
-Notes: true
 author: Guru Kalyan
 feature: https://i.imgur.com/LmN4maY.jpg
 comments: true
