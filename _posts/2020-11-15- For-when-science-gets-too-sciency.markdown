@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "For when Science gets too nerdy"
-date: 2020-15-11
+date: 2020-14-11
 excerpt: "Blogs to keep you up"
 author: Guru Kalyan
 feature: https://i.imgur.com/LmN4maY.jpg
