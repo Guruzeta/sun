@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  "For when science gets too nerdy"
-date:   2020-11-15
-categories: Notes
+title:  "For when Science gets too nerdy"
+date: 2020-15-11
+excerpt: "Blogs to keep you up"
+Notes: true
 author: Guru Kalyan
-feature: https://i.imgur.com/A6UeDZP.jpg
-
+feature: https://i.imgur.com/LmN4maY.jpg
+comments: true
 ---
 Being in the middle of a rather unusual semester and a couple of slowly progressing
 projects, I've, from time to time, being pushed into fatigue. Moments arise when
