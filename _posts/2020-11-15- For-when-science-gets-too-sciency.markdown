@@ -4,7 +4,7 @@ title:  "For when Science gets too nerdy"
 date: 2020-11-15 16:41:33 +0530
 excerpt: "Blogs to keep you up"
 author: Guru Kalyan
-feature: https://i.imgur.com/LmN4maY.jpg
+feature: https://imgs.xkcd.com/comics/prediction.png
 comments: true
 ---
 Being in the middle of a rather unusual semester and a couple of slowly progressing
