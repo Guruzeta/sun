@@ -26,7 +26,6 @@ Comes from someone who dabbles in both maths & physics (why didn't I find this b
 Advice on [this](https://math.ucr.edu/home/baez/) page. Particularly clicked with his thoughts
 on being wary of jumping into shiny stuff and doing  theoretical experiments. Also cites several
 standard books on physics (similar books have been used in our curriculum).
-
 Point to check - His Math suggests!
 
 3. [Backreaction](http://backreaction.blogspot.com) - I'll leave out this one for you to check.
