@@ -36,7 +36,7 @@ Point to check - Her comment section is clearly something to view. Caution: Migh
 4. [Not Even wrong](https://www.math.columbia.edu/~woit/wordpress/) -
 Shares some similar ideas as Sabine, but quite well organised. I like the recent updates made in the page
 (see the [2020 nobel prize](https://www.math.columbia.edu/~woit/wordpress/?p=12009) update).
-Peter Woit shares the same dabble for math-physics as John Baez, hence makes an interesting read for knowing about "current news" in both fields.
+Peter Woit (a ) shares the same dabble for math-physics as John Baez, hence makes an interesting read for knowing about "current news" in both fields.
 
 Others like [Scott Aaronson's](https://www.scottaaronson.com/blog/?p=304), [Lubos Motl's](https://motls.blogspot.com) seemed popular - have only made a slight venture. A more complete index can be found
-at [peter's blog](https://www.math.columbia.edu/~woit/wordpress/) (down-right in his page).
+at [Prof. Woit's blog](https://www.math.columbia.edu/~woit/wordpress/) (down-right in his page).
