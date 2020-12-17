@@ -15,10 +15,11 @@ project for a course on Advanced statistical mechanics. The reading involved bas
 going over a chapter in Kardar's book on series expansions. I'm supposed to say
 something about it here, but you can just click below to see what I managed to do.
 All in all, I'd say I didn't expect to find lattice gauge theory during this, which,
-after some googling, seems to quite interesting and lattice field theory.
+after some googling, seems to quite interesting.
 
 
 **<a href="https://guruzeta.github.io/sun/pdfs/notes_v1.pdf" target="_blank">
+Report on Ising dualities</a>**
 
 Lemme see if I can add some more references to the discussion
 (this one is primarily based on Kardar). David tong seemed to have nice lectures
