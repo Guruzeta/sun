@@ -2,7 +2,7 @@
 layout: post
 title:  "Many Body Theory"
 date:   2020-01-04
-project : true
+Notes : true
 author: Guru Kalyan
 feature: https://i.imgur.com/LmN4maY.jpg
 
