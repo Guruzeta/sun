@@ -20,6 +20,9 @@ after some googling, seems to quite interesting.
 
 **<a href="https://guruzeta.github.io/sun/pdfs/notes_v1.pdf" target="_blank">
 Report on Ising dualities</a>**
+Here's my presentation on it:
+**<a href="https://guruzeta.github.io/sun/pdfs/presentation.pdf" target="_blank">
+A messy presentation</a>**
 
 Lemme see if I can add some more references to the discussion
 (this one is primarily based on Kardar). David tong seemed to have nice lectures
