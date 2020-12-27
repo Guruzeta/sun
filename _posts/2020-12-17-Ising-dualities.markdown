@@ -25,9 +25,9 @@ Here's my presentation on it:
 **<a href="https://guruzeta.github.io/sun/pdfs/presentation.pdf" target="_blank">
 A messy presentation</a>**
 
-I am adding a set of references on this, mostly for some later time when I hope
-to return to this. I found [Muramatsu's Notes](https://www.itp3.uni-stuttgart.de/downloads/Lattice_gauge_theory_SS_2009/Chapter3.pdf) quite useful, particularly the calculation
-of vanishing local order parameter (or lack of SSB). Also check [Kogut's review](http://www.fulviofrisone.com/attachments/article/483/030818090032%20An%20Introduction%20To%20Lattice%20Gauge%20Theory%20And%20Spin%20Systems.pdf).
+I am adding a set of references, mostly for some later time when I hope
+to return to this: I found [Muramatsu's Notes](https://www.itp3.uni-stuttgart.de/downloads/Lattice_gauge_theory_SS_2009/Chapter3.pdf) quite useful, particularly the calculation
+of vanishing local order parameter (or lack of SSB) in the gauge theory. Also check [Kogut's review](http://www.fulviofrisone.com/attachments/article/483/030818090032%20An%20Introduction%20To%20Lattice%20Gauge%20Theory%20And%20Spin%20Systems.pdf).
 
 
 P.s. - The xkcd pic is "meant" to promote digital minimalism ;).
