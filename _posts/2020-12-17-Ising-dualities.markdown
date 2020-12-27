@@ -15,7 +15,7 @@ project for a course on Advanced statistical mechanics. The reading involved bas
 going over a chapter in Kardar's book on series expansions. I'm supposed to say
 something about it here, but you can just click below to see what I managed to do.
 All in all, I'd say I didn't expect to find lattice gauge theory during this, which,
-after some googling, seems to quite interesting.
+after some googling, seems to be quite interesting.
 
 
 **<a href="https://guruzeta.github.io/sun/pdfs/notes_v1.pdf" target="_blank">
@@ -25,8 +25,9 @@ Here's my presentation on it:
 **<a href="https://guruzeta.github.io/sun/pdfs/presentation.pdf" target="_blank">
 A messy presentation</a>**
 
-Lemme see if I can add some more references to the discussion
-(this one is primarily based on Kardar). David tong seemed to have nice lectures
-on gauge theory.
+I am adding a set of references on this, mostly for some later time when I hope
+to return to this. I found [Muramatsu's Notes](https://www.itp3.uni-stuttgart.de/downloads/Lattice_gauge_theory_SS_2009/Chapter3.pdf) quite useful, particularly the calculation
+of vanishing local order parameter (or lack of SSB). Also check [Kogut's review](http://www.fulviofrisone.com/attachments/article/483/030818090032%20An%20Introduction%20To%20Lattice%20Gauge%20Theory%20And%20Spin%20Systems.pdf).
+
 
 P.s. - The xkcd pic is "meant" to promote digital minimalism ;).
