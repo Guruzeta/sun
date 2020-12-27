@@ -20,6 +20,7 @@ after some googling, seems to quite interesting.
 
 **<a href="https://guruzeta.github.io/sun/pdfs/notes_v1.pdf" target="_blank">
 Report on Ising dualities</a>**
+
 Here's my presentation on it:
 **<a href="https://guruzeta.github.io/sun/pdfs/presentation.pdf" target="_blank">
 A messy presentation</a>**
