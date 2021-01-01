@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Sketch"
+date: 2020-11-15 16:41:33 +0530
+excerpt: "Personal"
+author: Guru Kalyan
+feature: https://imgs.xkcd.com/comics/listen_to_yourself.png
+comments: true
+---
+The reader of this page will have to suffer through my terrible drawing skills
+until I figure out how to setup a separate personal page. Here is one:
+
+<figure>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/186166047@N05/50786135462/in/dateposted-public/" title="draw_test1"><img src="https://live.staticflickr.com/65535/50786135462_bf765c14c0_c.jpg" width="800" height="600" alt="draw_test1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
