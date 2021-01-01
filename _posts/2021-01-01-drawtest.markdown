@@ -4,7 +4,7 @@ title:  "Sketch"
 date: 2020-11-15 16:41:33 +0530
 excerpt: "Personal"
 author: Guru Kalyan
-feature: https://imgs.xkcd.com/comics/listen_to_yourself.png
+feature:  https://imgs.xkcd.com/comics/art_project.png
 comments: true
 ---
 The reader of this page will have to suffer through my terrible drawing skills
