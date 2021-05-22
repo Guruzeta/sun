@@ -1,3 +1,4 @@
+<!--
 ---
 layout: post
 title: Syntax Highlighting Post
@@ -33,6 +34,7 @@ To modify styling and highlight colors edit `/assets/css/syntax.css`.
         <a href="{{ site.url }}{{ page.next.url }}" class="btn" title="{{ page.next.title }}">Next article</a>
     {% endif %}
 </nav><!-- /.pagination -->
+
 {% endraw %}
 {% endhighlight %}
 
