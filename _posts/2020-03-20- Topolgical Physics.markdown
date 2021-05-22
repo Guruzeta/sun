@@ -7,9 +7,8 @@ author: Guru Kalyan
 feature: https://i.imgur.com/LmN4maY.jpg
 ---
 
+Here's a collection of problems in Topogical quantum matter (including models, numerical
+  computations etc) that I'm attaching for my self reference. I'll put up my notes soon.
 
-Work in progress.
-Goal: To learn about Weyl Semimetals and Understand the possibility of Superconductivity in the same.
-
-Papers: - Mele and Armitage(Weyl's review paper)
-Don't really have a clue as to how to figure it out. Let's see.
+  **<a href="https://guruzeta.github.io/sun/Notes/problems.html" target="_blank">
+  Problem Collection</a>**
