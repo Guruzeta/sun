@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why QFT?"
-date:   2019-11-29 16:41:33 +0530
+date:   2018-11-29 16:41:33 +0530
 categories: Notes
 author: Guru Kalyan
 feature: https://i.imgur.com/LmN4maY.jpg
