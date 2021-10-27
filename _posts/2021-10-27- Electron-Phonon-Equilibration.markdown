@@ -18,6 +18,11 @@ Experimentally, this is relevant for various physical models. For example, in de
 
 We hope to study this phenomena in detail by doing an honest calculation sans popular approximations.
 
+
+**<a href="https://github.com/Guruzeta/Julia" target="_blank">
+Link to github repo containing codes</a>**
+
+
 ## References
 
 1. Lin, Zhibin and Zhigilei, Leonid V and Celli, Vittorio. "Electron-phonon coupling and electron heat capacity of
