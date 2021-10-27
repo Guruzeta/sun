@@ -8,38 +8,25 @@ feature: https://i.imgur.com/LmN4maY.jpg
 ---
 
 Project on e-ph equilibration using keldysh formalism.
-<p style="text-align: center;">
+
+
 # Abstract
-</p>
-<!-- States formed by pairing in a superconductor can be classified according to their parity (for even frequency), namely
-as even or odd parity (singlet or triplet respectively). However, this classification, relies on the presence of an inversion centre. -->
 
-Lack of inversion symmetry in a crystal can have very profound impact on its
-superconducting properties. The free-energy functionals describing these,
-so-called non-centrosymmetric systems (**NCS**), can have new terms which are absent in ordinary superconductors
-on account of symmetry. While externally applied field decays monotonically for usual BCS, in NCS
-it can have a **spiral** **decay** (imagine $$ \vec{B} $$ rotating and decaying, much like a   
-helix). Moreover, these materials also feature vortex bound states, and an admixture of
-singlet-triplet pairings. I studied one such model ([PhysRevB.102.184517](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.184517), Babaev et al.) and looked at the effect of "**spin**-**orbit**
-**coupling**" on superconductivity. Specifically, I investigated SOC's effect
-on observables both below and above $$ T_c $$ (when the system is non-superconducting). For the latter, mean field predicts a vanishing order parameter (and thus a normal state), but thermal **fluctuations** atop this mean field can still contribute to thermodynamic measurables (in some cases, their contribution can **overpower** normal "metallic" state answer, see larkin's paper below). Using regularization, I calculated these effects and finally presented my findings to a committee.
+We are investigating the dynamics of a coupled electron- phonon system within Keldysh formalism, where both electrons and phonons evolve in time self-consistently, as opposed to the standard paradigm of one set of constituents forming a static bath for the other.
 
+Experimentally, this is relevant for various physical models. For example, in devices such as bolometers (measures power of incident radiation by noting the concomitant temperature rise in the incident material), the general idea is that charged particles impinge and excite electrons in lattice, which subsequently thermalise by redistributing received energy. This would involve a chain-reaction b/w electrons and phonons, each exchanging energy with the other while evolving towards steady state. Various results in such systems depend crucially on the specificities of this non-equilibrium dynamics. More interestingly, at low temperatures, this dynamics might be interesting as other subsidiary phenomena such as superconductivity (e.g. s-wave) involve electron-phonon interaction to enable an entirely new phase of matter.
 
-**<a href="https://guruzeta.github.io/sun/pdfs/btp_phase1.pdf" target="_blank">
-Final Report</a>**
-
-
-**<a href="https://guruzeta.github.io/sun/pdfs/btp_phase1_slides.pdf" target="_blank">
-Presentation</a>**
-
+We hope to study this phenomena in detail by doing an honest calculation sans popular approximations.
 
 ## References
 
-1. Albert Samoilenka and Egor Babaev. “Spiral magnetic field and bound states of vor- tices in noncentrosymmetric superconductors”. In: Physical Review B 102.18 (2020), p. 184517.
-2. E. Bauer et al. “Heavy Fermion Superconductivity and Magnetic Order in Non- centrosymmetric CePt3Si”. In: Phys. Rev. Lett. 92 (2 Jan. 2004), p. 027003. doi: 10.1103/PhysRevLett.92.027003. url: https://link.aps.org/doi/10.1103/ PhysRevLett.92.027003.
+1. Lin, Zhibin and Zhigilei, Leonid V and Celli, Vittorio. "Electron-phonon coupling and electron heat capacity of
+metals under conditions of strong electron-phonon nonequilibrium". In: Physical Review B, volume 77, number 7,
+pages 075133, year 2008, publisher : APS.
 
-3. AI Larkin and AA Varlamov. “Fluctuation phenomena in superconductors”. In: Su- perconductivity. Springer, 2008, pp. 369–458.
+2.  Saavedra, JRM and Asenjo-Garcia et al. "Hot-electron dynamics and thermalization in small metallic nanoparticles".
+In: ACS Photonics, volume 3, number 9, year 2016, publisher: ACS Publications.
 
-4. M Smidman et al. “Superconductivity and spin–orbit coupling in non-centrosymmetric materials: a review”. In: Reports on Progress in Physics 80.3 (Jan. 2017), p. 036501. issn: 1361-6633. doi: 10.1088/1361-6633/80/3/036501. url: http://dx.doi. org/10.1088/1361-6633/80/3/036501.
+3. Chakraborty, Ahana and Sensarma, Rajdeep. "Power-law tails and non-Markovian dynamics in open quantum systems: An exact solution from Keldysh field theory". In: Physical Review B, volume 97,number 10, 2018, publisher: APS.
 
-5. Albert Schmid. “Diamagnetic Susceptibility at the Transition to the Superconduct- ing State”. In: Phys. Rev. 180 (2 Apr. 1969), pp. 527–529. doi: 10.1103/PhysRev. 180.527. url: https://link.aps.org/doi/10.1103/PhysRev.180.527.
+4. Kamenev, Alex. "Field theory of non-equilibrium systems", 2011, publisher: Cambridge University Press.
