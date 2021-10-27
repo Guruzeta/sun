@@ -1,15 +1,16 @@
 ---
 layout: post
-title:  "Non-centrosymmetric Superconductors"
+title:  "Electron Phonon equilibration"
 date:   2021-10-27 16:41:33 +0530
 categories: Notes
 author: Guru Kalyan
 feature: https://i.imgur.com/LmN4maY.jpg
 ---
 
-Bachelor thesis report on superconductivity.
-
+Project on e-ph equilibration using keldysh formalism.
+<p style="text-align: center;">
 # Abstract
+</p>
 <!-- States formed by pairing in a superconductor can be classified according to their parity (for even frequency), namely
 as even or odd parity (singlet or triplet respectively). However, this classification, relies on the presence of an inversion centre. -->
 
