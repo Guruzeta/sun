@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Superconducitivity in $$ Cu_xBi_2Se_3 $$ "
+title:  "Spin Polarization around fractional vortices "
 date:   2021-06-27 16:41:33 +0530
 categories: Notes
 author: Guru Kalyan
