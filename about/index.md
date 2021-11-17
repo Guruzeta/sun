@@ -35,6 +35,6 @@ Feel free to wander about!
 
 <!-- See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
 
-<!-- https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png --> -->
+<!-- https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png -->
 
 <!-- [Curriculum Vitae](https://github.com/Guruzeta/sun){: .btn} -->
