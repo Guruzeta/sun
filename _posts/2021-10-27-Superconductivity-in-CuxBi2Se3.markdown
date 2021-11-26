@@ -13,7 +13,7 @@ Bachelor thesis report on superconductivity in topological insulator $$ Cu_xBi_2
 <!-- States formed by pairing in a superconductor can be classified according to their parity (for even frequency), namely
 as even or odd parity (singlet or triplet respectively). However, this classification, relies on the presence of an inversion centre. -->
 
-Currently, the phenomenon of superconductivity in MxBi2Se3 has been of some in- terest (particularly $$ CuxBi2Se3 $$
+Currently, the phenomenon of superconductivity in $$ M_xBi_2Se_3 $$ has been of some interest (particularly $$ Cu_xBi_2Se_3 $$
 which is a doped topological insulator).[2] proposed that the inter-orbital odd parity pairing symmetry in a strongly
 spin orbit coupled normal state might be an explanation for the same. As analysed in [2], this can happen only in the
 presence of a two component order parameter. However the current understanding still remains
