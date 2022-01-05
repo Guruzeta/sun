@@ -12,8 +12,7 @@ I've put up posting this note for sometime. Here it is:
 
 Recently I managed to read something on dualities in Ising model as a part of my
 project for a course on Advanced statistical mechanics. The reading involved basically
-going over a chapter in Kardar's book on series expansions. I'd say I didn't expect to find lattice gauge theory during this, which,
-after some googling, seems to be interesting.
+going over a chapter in Kardar's book on series expansions. I didn't expect to find lattice gauge theory during this, which is quite interesting in its own right ;)
 
 
 **<a href="https://guruzeta.github.io/sun/pdfs/notes_v1.pdf" target="_blank">
