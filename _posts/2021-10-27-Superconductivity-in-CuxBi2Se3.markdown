@@ -14,16 +14,15 @@ Bachelor thesis report on superconductivity in topological insulator $$ Cu_xBi_2
 as even or odd parity (singlet or triplet respectively). However, this classification, relies on the presence of an inversion centre. -->
 
 Currently, the phenomenon of superconductivity in $$ M_xBi_2Se_3 $$ has been of some interest (particularly $$ Cu_xBi_2Se_3 $$
-which is a doped topological insulator).[2] proposed that the inter-orbital odd parity pairing symmetry in a strongly
+which is a doped topological insulator). [2] proposed that the inter-orbital odd parity pairing symmetry in a strongly
 spin orbit coupled normal state might be an explanation for the same. As analysed in [2], this can happen only in the
 presence of a two component order parameter. However the current understanding still remains
-inconclusive as to the nature of the pairing[3]. It is in this regard that the current thesis aims to study one aspect
-of this problem, namely, the phenomenon of **half quantum vortices** present possible in this material. The organisation
-of this thesis is as follows: In chapter 1 half quantum vortices (HQV) are analysed using the framework of Ginzburg
-landau theory. A concrete realisation of this model is highlighted in a microscopic example carried in chapter 2. This
-then helps to provide for a calculation of spin-polarization around vortex states, which is computed for the case of a
-overlapping HQV pair. Finally, the thesis concludes with some comments on the experimental significance of the spin
-polarization.
+inconclusive on some consequences in lieu of this pairing [3], namely that although the pairing is topological, the search for expected Majorana bound states turned out mixed results. It is in this regard that the current thesis aims to study one aspect
+of this problem, namely, the phenomenon of **half quantum vortices** present possible in this material.
+
+The thesis is organized as follows: In chapter 1, half quantum vortices (HQV) are analysed using the framework of Ginzburg
+Landau theory. A concrete realisation is highlighted in form of a microscopic model, done in chapter 2. With the model in hand, the calculation of spin-polarization around vortex states is done. A specific case of overlapping HQV pair (as discussed in Chapter 1) is taken and spin-polarization is computed for the same.
+
 
 
 **<a href="https://guruzeta.github.io/sun/pdfs/BTP_report_phase2.pdf" target="_blank">
