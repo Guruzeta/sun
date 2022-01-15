@@ -22,3 +22,5 @@ Working draft</a>**
 ## References
 
 1. P. G. DE GENNES, “Boundary effects in superconductors,” Rev. Mod. Phys., vol. 36, pp. 225–237, Jan 1964. [Online]. Available: https://link.aps.org/doi/10.1103/RevModPhys.36.225
+
+2. M. Lababidi and E. Zhao, “Microscopic simulation of superconductor/topological insulator proximity structures,” Phys. Rev. B, vol. 83, p. 184511, May 2011. [Online]. Available: https://link.aps.org/doi/10.1103/PhysRevB.83.184511
