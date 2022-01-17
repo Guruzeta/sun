@@ -24,8 +24,7 @@ singlet-triplet pairings. I studied one such model ([PhysRevB.102.184517](https:
 on observables both below and above $$ T_c $$ (when the system is non-superconducting). For the latter, mean field predicts a vanishing order parameter (and thus a normal state), but thermal **fluctuations** atop this mean field can still contribute to thermodynamic measurables (in some cases, their contribution can **overpower** normal "metallic" state answer, see larkin's paper below). Using regularization, I calculated these effects and finally presented my findings to a committee.
 
 
-**<a href="https://guruzeta.github.io/sun/pdfs/btp_phase1.pdf" target="_blank">
-Final Report</a>**
+
 
 
 **<a href="https://guruzeta.github.io/sun/pdfs/btp_phase1_slides_v2.pdf" target="_blank">
@@ -34,6 +33,8 @@ Presentation (v2)</a>**
 **<a href="https://guruzeta.github.io/sun/pdfs/btp_phase1_slides.pdf" target="_blank">
 Presentation (v1)</a>**
 
+**<a href="https://guruzeta.github.io/sun/pdfs/btp_phase1.pdf" target="_blank">
+Final Report</a>**
 
 ## References
 
