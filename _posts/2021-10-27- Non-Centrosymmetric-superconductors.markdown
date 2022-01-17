@@ -28,8 +28,11 @@ on observables both below and above $$ T_c $$ (when the system is non-supercondu
 Final Report</a>**
 
 
+**<a href="https://guruzeta.github.io/sun/pdfs/btp_phase1_slides_v2.pdf" target="_blank">
+Presentation (v2)</a>**
+
 **<a href="https://guruzeta.github.io/sun/pdfs/btp_phase1_slides.pdf" target="_blank">
-Presentation</a>**
+Presentation (v1)</a>**
 
 
 ## References
