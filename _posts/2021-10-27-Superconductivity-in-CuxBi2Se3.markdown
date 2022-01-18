@@ -25,13 +25,16 @@ Landau theory. A concrete realisation is highlighted in form of a microscopic mo
 
 
 
-**<a href="https://guruzeta.github.io/sun/pdfs/BTP_report_phase2.pdf" target="_blank">
-Final Report</a>**
+
 
 
 **<a href="https://guruzeta.github.io/sun/pdfs/btp_phase2_slides.pdf" target="_blank">
 Presentation</a>**
 
+<!---
+**<a href="https://guruzeta.github.io/sun/pdfs/BTP_report_phase2.pdf" target="_blank">
+Final Report</a>**
+-->
 
 ## References
 1. Zhitomirskii M. E. “Magnetic transitions in a superconducting UPt3”. In: Phys. Rev. Lett. 103 (5 July 2009), p. 057003. doi: 10.1103/PhysRevLett.103.057003. url: https://link.aps.org/doi/10.1103/PhysRevLett.103.057003.
