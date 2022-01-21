@@ -22,7 +22,7 @@ We hope to study this phenomena in detail by doing an honest calculation sans po
 **<a href="https://github.com/Guruzeta/Julia" target="_blank">
 Link to github repo containing codes</a>**
 
-**<a href="https://guruzeta.github.io/sun/pdfs/kft1.pdf" target="_blank">
+**<a href="https://guruzeta.github.io/sun/pdfs/kft_abstract.pdf" target="_blank">
 Working draft</a>**
 
 ## References
