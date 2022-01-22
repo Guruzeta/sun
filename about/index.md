@@ -6,12 +6,12 @@ date: 2016-03-21
 comments: false
 ---
   <!-- <a href="http://taylantatli.github.io/Moon"><b>Moon</b></a>  -->
-## <center>  Guru Kalyan Jayasingh </center>
+<!-- ## <center>  Guru Kalyan Jayasingh </center> -->
 Hi there!
-I am a final year undergraduate in the Physics department at the Indian Institute of Technology, Bombay.
+I am **Guru Kalyan Jayasingh**, a final year undergraduate in the Physics department at the Indian Institute of Technology, Bombay.
 I am primarily interested in theoretical physics, particularly condensed matter physics. Mostly, I like
 exploring
-applications of field theory based methods to analyse multi-particle systems at equilibrium & non-equilibrium.
+applications of field theory based methods to analyse many-body systems at equilibrium & non-equilibrium.
 Currently, I am in the process of finishing my Master's thesis and am excited to further my journey via a PhD.
 To know more about my work, see the posts section on my homepage.
  <!-- That said, I also like abstract mathematics and have some
