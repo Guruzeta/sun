@@ -9,7 +9,7 @@ comments: false
 <!-- ## <center>  Guru Kalyan Jayasingh </center> -->
 Hi there!
 I am **Guru Kalyan Jayasingh**, a final year undergraduate in the Physics department at the
-<a href="https://www.iitb.ac.in"><b>Indian Institute of Technology, Bombay</b></a>. I am primarily interested in theoretical physics, particularly condensed matter physics. Mostly, I like
+<a href="https://www.iitb.ac.in"><b>Indian Institute of Technology, Bombay</b></a>. 	I am primarily interested in theoretical physics, particularly condensed matter physics. Mostly, I like
 exploring
 applications of field theory based methods to analyse many-body systems at equilibrium & non-equilibrium.
 Currently, I am in the process of finishing my Master's thesis and am excited to further my journey via a PhD.
