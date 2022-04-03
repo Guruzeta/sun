@@ -2,7 +2,7 @@
 layout: post
 title:  "Spin Polarization around fractional vortices "
 date:   2021-06-27 16:41:33 +0530
-categories: Notes
+project: true
 author: Guru Kalyan
 feature: https://i.imgur.com/LmN4maY.jpg
 ---
