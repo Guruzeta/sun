@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title:  "Topology in Condensed Matter"
 date:   2019-11-29 16:41:33 +0530
 categories: Notes
