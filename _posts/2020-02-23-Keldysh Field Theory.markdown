@@ -2,6 +2,7 @@
 layout: post
 title:  "Path Integrals and Keldysh Field Theory"
 date:   2020-07-03 16:41:33 +0530
+excerpt: "A QFT for non-equilibrium problems"
 categories: Notes
 author: Guru Kalyan
 feature: https://i.imgur.com/LmN4maY.jpg
