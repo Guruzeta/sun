@@ -1,13 +1,14 @@
 ---
 layout: post
 title:  "Course: Quantum Matter"
-date:   2022-09-14 16:41:33 +0530
+date:   2022-09-01 16:41:33 +0530
 categories: Notes
 author: Guru Kalyan
 feature: https://i.imgur.com/LmN4maY.jpg
 
 ---
 Here are my notes on the class PHYS 211 C (UCSD) given by Prof. Tarun Grover.
+
 While some of them are up to date, I am yet to update other notes with details.
 
 
