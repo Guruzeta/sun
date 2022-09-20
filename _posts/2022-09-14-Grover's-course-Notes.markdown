@@ -11,7 +11,7 @@ feature: https://i.imgur.com/LmN4maY.jpg
 Here are my notes on the class PHYS 211 C (UCSD) given by **<a href="https://physics.ucsd.edu/Directory/Person/492" target="_blank">
 Prof. Tarun Grover</a>**
 
-While some of them are up to date, I am yet to update other notes with details.
+While some of them are up to date, I am yet to update other notes with details
 
 **<a href="https://guruzeta.github.io/sun/pdfs/Lecture 5 MD.pdf" target="_blank">Lecture 5 MD.pdf</a>**
 
