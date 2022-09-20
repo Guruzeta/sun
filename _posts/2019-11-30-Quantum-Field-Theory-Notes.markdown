@@ -3,6 +3,7 @@ layout: post
 title:  "Quantum Field Theory"
 date:   2020-02-29 16:41:33 +0530
 categories: Notes
+excerpt: "Notes on QFT"
 author: Guru Kalyan
 feature: https://i.imgur.com/LmN4maY.jpg
 
