@@ -3,6 +3,7 @@ layout: post
 title:  "Course: Topological Aspects of Quantum Matter"
 date:   2022-09-01 16:41:33 +0530
 categories: Notes
+excerpt: "Class Notes"
 author: Guru Kalyan
 feature: https://i.imgur.com/LmN4maY.jpg
 
