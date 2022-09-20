@@ -8,7 +8,7 @@ author: Guru Kalyan
 feature: https://i.imgur.com/LmN4maY.jpg
 
 ---
-## Update: 2021
+### Update: 2021
 
 Notes from QFT class (at IIT Bombay) titled "Special Topics in Elementary Particle Physics" can be found here:
 
@@ -16,7 +16,7 @@ Notes from QFT class (at IIT Bombay) titled "Special Topics in Elementary Partic
 PH572_notes</a>**
 
 ---
-## Post from 2019
+### Post from 2019
 
 Recently I've ventured into quantum field theory over the course of a supervised learning.
 I've managed to cover topics such as Classical Field theory, Canonical Quantization and
