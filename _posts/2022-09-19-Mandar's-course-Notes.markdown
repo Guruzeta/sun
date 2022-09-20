@@ -16,13 +16,11 @@ The topics covered mostly dealt with topological materials including but not lim
 While some of them are up to date, I am yet to update other notes with details.
 
 
-**<a href="https://guruzeta.github.io/sun/pdfs/Lecture 5 MD.pdf" target="_blank">Lecture 5 MD.pdf</a>**
 
-**<a href="https://guruzeta.github.io/sun/pdfs/Assignment 4.pdf" target="_blank">Assignment 4.pdf</a>**
 
 **<a href="https://guruzeta.github.io/sun/pdfs/Dirac eqn recap.pdf" target="_blank">Dirac eqn recap.pdf</a>**
 
-**<a href="https://guruzeta.github.io/sun/pdfs/Exercises .pdf" target="_blank">Exercises .pdf</a>**
+<!-- **<a href="https://guruzeta.github.io/sun/pdfs/Exercises .pdf" target="_blank">Exercises .pdf</a>** -->
 
 **<a href="https://guruzeta.github.io/sun/pdfs/Lecture 1 Monday.pdf" target="_blank">Lecture 1 Monday.pdf</a>**
 
@@ -31,6 +29,8 @@ While some of them are up to date, I am yet to update other notes with details.
 **<a href="https://guruzeta.github.io/sun/pdfs/Lecture 3 MD.pdf" target="_blank">Lecture 3 MD.pdf</a>**
 
 **<a href="https://guruzeta.github.io/sun/pdfs/Lecture 4 MD.pdf" target="_blank">Lecture 4 MD.pdf</a>**
+
+**<a href="https://guruzeta.github.io/sun/pdfs/Lecture 5 MD.pdf" target="_blank">Lecture 5 MD.pdf</a>**
 
 **<a href="https://guruzeta.github.io/sun/pdfs/Lecture 6 MD.pdf" target="_blank">Lecture 6 MD.pdf</a>**
 
@@ -67,8 +67,8 @@ While some of them are up to date, I am yet to update other notes with details.
 **<a href="https://guruzeta.github.io/sun/pdfs/Lecture 24- 3DTI 2, QAHE 1.pdf" target="_blank">Lecture 24- 3DTI 2, QAHE 1.pdf</a>**
 
 **<a href="https://guruzeta.github.io/sun/pdfs/Lecture 25 - TSC 1.pdf" target="_blank">Lecture 25 - TSC 1.pdf</a>**
-
-**<a href="https://guruzeta.github.io/sun/pdfs/Missed lectures list.pdf" target="_blank">Missed lectures list.pdf</a>**
+<!--
+**<a href="https://guruzeta.github.io/sun/pdfs/Missed lectures list.pdf" target="_blank">Missed lectures list.pdf</a>** -->
 
 **<a href="https://guruzeta.github.io/sun/pdfs/Note 10-May-2021 2_03_20 PM- TSC, weyl 1.pdf" target="_blank">Note 10-May-2021 2_03_20 PM- TSC, weyl 1.pdf</a>**
 
@@ -78,6 +78,10 @@ While some of them are up to date, I am yet to update other notes with details.
 
 **<a href="https://guruzeta.github.io/sun/pdfs/Note 19-May-2021 9_01_35 AM- tBG 1.pdf" target="_blank">Note 19-May-2021 9_01_35 AM- tBG 1.pdf</a>**
 
-**<a href="https://guruzeta.github.io/sun/pdfs/ToC.pdf" target="_blank">ToC.pdf</a>**
+<!-- **<a href="https://guruzeta.github.io/sun/pdfs/ToC.pdf" target="_blank">ToC.pdf</a>**
 
-**<a href="https://guruzeta.github.io/sun/pdfs/Weyl and Dirac semi metals.pdf" target="_blank">Weyl and Dirac semi metals.pdf</a>**
+**<a href="https://guruzeta.github.io/sun/pdfs/Weyl and Dirac semi metals.pdf" target="_blank">Weyl and Dirac semi metals.pdf</a>** -->
+
+
+
+**<a href="https://guruzeta.github.io/sun/pdfs/Assignment 4.pdf" target="_blank">Assignment 4.pdf</a>**
