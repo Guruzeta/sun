@@ -12,8 +12,7 @@ feature: https://i.imgur.com/LmN4maY.jpg
 
 Notes from QFT class (at IIT Bombay) titled "Special Topics in Elementary Particle Physics" can be found here:
 
-**<a href="https://www.dropbox.com/sh/n7tm8ikv2pk49pg/AADSmD9bFo7qvky9v9dOacjWa?dl=0" target="_blank">
-PH572_notes</a>**
+PH572_notes
 
 ---
 ### Post from 2019
