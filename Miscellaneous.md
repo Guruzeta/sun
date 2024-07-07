@@ -23,7 +23,6 @@ title: Miscellaneous
                 </div>
                 <div class="post-list">
                     {% for post in site.miscellaneous %} 
-                        {% if post.project == null %}
                     <ul>
                         <li class="wow fadeInLeft" data-wow-duration="1.5s">
                             <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
@@ -37,7 +36,7 @@ title: Miscellaneous
             </div>
         </div>
     </header>
-    {% include scripts.html %}
+​    {% include scripts.html %}
     <script src="{{ site.url }}/assets/js/wow.min.js"></script>
     <script type="text/javascript">(new WOW).init();</script>
 </body>
