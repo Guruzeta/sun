@@ -27,7 +27,7 @@ sass:
 collections:
   miscellaneous:
     output: true
-    permalink: /:collection/:path/
+    permalink: /miscellaneous/:title/
 
 disqus_shortname:   guruzeta
 
