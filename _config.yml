@@ -26,6 +26,13 @@ sass:
   sass_dir:         _sass
   style:            compressed
 
+collections:
+  miscellaneous:
+    output: true
+    permalink: /:collection/:path/
+
+
+
 # Comments
 disqus_shortname:   guruzeta
 
