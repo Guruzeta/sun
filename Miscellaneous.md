@@ -1,6 +1,6 @@
 ---
 layout: compress
-title: Miscellaneous
+title: Non Sciencey things I do
 ---
 
 
