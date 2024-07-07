@@ -1,5 +1,5 @@
 ---
-layout: post-list
+layout: compress
 title: Non Science
 ---
 
@@ -43,7 +43,7 @@ title: Non Science
         </div>
     </header>
 ​    {% include scripts.html %}
-    <script src="{{ site.url }}/assets/js/wow.min.js"></script>
-    <script type="text/javascript">(new WOW).init();</script>
+​    <script src="{{ site.url }}/assets/js/wow.min.js"></script>
+​    <script type="text/javascript">(new WOW).init();</script>
 </body>
 </html>
