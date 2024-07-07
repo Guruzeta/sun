@@ -9,6 +9,7 @@ background:         'assets/img/feynman-1-3.png'
 tiled_bg:           false
 locale:             en_US
 url:                https://guruzeta.github.io/sun/
+baseurl:            "/sun"
 
 permalink:          /:title/
 markdown:           kramdown
