@@ -1,6 +1,6 @@
 ---
 layout: compress
-title: Non Sciencey things I do
+title: Non Science
 ---
 
 
@@ -12,6 +12,7 @@ title: Non Sciencey things I do
 <body>
     {% include nav.html %}
     <!-- Header -->
+
     <header class="header" role="banner">
         <div class="wrapper animated fadeIn">
             <div class="content">
