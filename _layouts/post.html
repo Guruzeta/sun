@@ -31,6 +31,13 @@ layout: compress
                     {% endif %}
                         <i class="fa fa-chevron-left"></i>
                     </a>
+                    {% if page.miscellaneous %}
+                    <a class="btn zoombtn" href="{{site.url}}/Miscellanous/">
+                    {% else %}
+                    <a class="btn zoombtn" href="{{site.url}}/posts/">
+                    {% endif %}
+                        <i class="fa fa-chevron-left"></i>
+                    </a>
                 </div>
                 {{ content }}
                 <div class="entry-meta">
