@@ -1,5 +1,5 @@
 ---
-layout: compress
+layout: post-list
 title: Non Science
 ---
 
