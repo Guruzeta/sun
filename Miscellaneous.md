@@ -1,5 +1,5 @@
 ---
-layout: miscellaneous
+layout: post-list
 title: Non Science
 ---
 
